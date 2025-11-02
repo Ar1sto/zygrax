@@ -165,7 +165,7 @@ void print_banner() {
 
 // Hilfe anzeigen
 void print_help() {
-    printf(COLOR_CYAN "Usage: nebulark [OPTIONS]\n" COLOR_RESET);
+    printf(COLOR_CYAN "Usage: zygrax [OPTIONS]\n" COLOR_RESET);
     printf("\n");
     printf(COLOR_YELLOW "Payload Options:\n" COLOR_RESET);
     printf("  --type TYPE          Payload type (shellcode, c, asm) [required]\n");
