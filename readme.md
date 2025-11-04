@@ -21,7 +21,7 @@
 
 ## Overview
 
-Zygrax is an advanced payload generation framework designed for security research and penetration testing. It incorporates cutting-edge evasion techniques, code transformation engines, and multiple deployment methods to create sophisticated payloads for authorized security assessments.
+Zygrax is an advanced payload and Malware generation framework designed for security research and penetration testing. It incorporates cutting-edge evasion techniques, code transformation engines, and multiple deployment methods to create sophisticated payloads for authorized security assessments.
 
 ## Key Features
 
@@ -332,5 +332,6 @@ Zygrax welcomes contributions in:
 **Zygrax Framework** - *Advanced Payload Generation for Security Research*
 
 **Disclaimer**: This tool should only be used for legitimate security research and authorized testing activities. Users are responsible for ensuring they have proper authorization before using this tool in any environment.
+
 
 </div>
